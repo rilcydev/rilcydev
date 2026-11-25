@@ -10,6 +10,6 @@
 
 ### ⚡ Stats
 
-![](https://komarev.com/ghpvc/?username=tourniercy)
+![](https://komarev.com/ghpvc/?username=rilcydev)
 
-![GitHub Stats](https://api-gitcard.rilcy.app/stats/tourniercy)
+![GitHub Stats](https://api-gitcard.rilcy.app/stats/rilcydev)
